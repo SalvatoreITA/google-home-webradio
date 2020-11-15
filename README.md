@@ -30,7 +30,11 @@ Telegram Group: https://t.me/sosdomotica
 <h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.0</h3>
 
 4. Aprire il file  “gh_webradiocard lovelace”, selezionare le righe di codice e copiarle (Ctrl+C).
-5. Creare una manual Card, Incollare le righe precedentemente selezionate (Ctrl+V) e Salvare cliccando su “Salva”
+5. Creare una manual Card, Incollare le righe precedentemente selezionate (Ctrl+V)
+6. Modificare la Card in base al nome delle vostre entità
+7. Salvare cliccando su “Salva”
+
+
 
 
 <h3 style="text-align: center;">Install Google Home WebRadio V 1.0 English </h3>
@@ -50,4 +54,6 @@ Telegram Group: https://t.me/sosdomotica
 <h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.0</h3>
 
 4. Open the “gh_webradiocard lovelace” file, select the lines of code and copy them (Ctrl + C).
-5. Create a manual card & Paste the previously selected lines (Ctrl + V) and Save by clicking on "Save"
+5. Create a manual card & Paste the previously selected lines (Ctrl + V)
+6. Edit the Card according to the name of your entities
+7. Save by clicking on "Save"
