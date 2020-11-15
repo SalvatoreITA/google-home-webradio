@@ -6,10 +6,12 @@
 1. Copiare il file "gh_webradio" nella cartella "package"
 2. Aprire il package "gh_webradio" e modificare i seguenti parametri:
 
-Inserire i media player esempio media_player.salotto dovrà essere inserito solo salotto
-Initial: Inserire il media player di default
-volume_level: volume impostato quando la radio va in ON
-volume_level: volume impostato quando la radio va in OFF
+<ul>
+ 	<li>Inserire i media player esempio media_player.salotto dovrà essere inserito solo salotto</li>
+ 	<li><strong>Initial:</strong> Inserire il media player di default</li>
+ 	<li><strong>volume_level: </strong>volume impostato quando la radio va in <strong>ON</strong></li>
+ 	<li><strong>volume_level: </strong>volume impostato quando la radio va in <strong>OFF</strong></li>
+</ul>
 
 3. Salva le modifiche e riavvia Home Assitant.
 
