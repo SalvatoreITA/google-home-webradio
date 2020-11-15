@@ -1,6 +1,18 @@
 <h1 style="text-align: center;">Google Home WebRadio Home Assistant V 1.0</h1>
 <center><img class="aligncenter wp-image-1369 size-medium" src="https://github.com/SalvatoreITA/radio-google/blob/main/Radio%2001.PNG" alt="" width="239" height="365" /></center>
 
+<h3 style="text-align: center;"> ITALIAN Support </h3>
+
+WebSite: www.domhouse.it
+
+Facebook: https://www.facebook.com/domhouse.it
+
+Youtube: https://www.youtube.com/channel/UC25fnf-F_O7H1_nLmrCCz3g?view_as=subscriber
+
+Telegram Page: https://t.me/domhouseit
+
+Telegram Group: https://t.me/sosdomotica
+
 <h3 style="text-align: center;">Install Google Home WebRadio V 1.0 Italiano </h3>
 
 1. Copiare il file "gh_webradio" nella cartella "package"
@@ -39,5 +51,3 @@
 
 4. Open the “gh_webradiocard lovelace” file, select the lines of code and copy them (Ctrl + C).
 5. Create a manual card & Paste the previously selected lines (Ctrl + V) and Save by clicking on "Save"
-
-SIT
