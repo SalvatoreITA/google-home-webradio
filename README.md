@@ -26,10 +26,12 @@
 1. Copy the "gh_webradio" file into the "package" folder
 2. Open the "gh_webradio" package and modify the following parameters:
 
-Insert media players eg media_player. Living room only living room should be entered
-Initial: Enter the default media player
-volume_level: volume set when the radio turns ON
-volume_level: volume set when the radio goes OFF
+<ul>
+<li>Insert media players eg media_player. Living room only living room should be entered</li>
+<li>Initial: Enter the default media player</li>
+<li>volume_level: volume set when the radio turns ON</li>
+<li>volume_level: volume set when the radio goes OFF</li>
+</ul>
 
 3. Save Modify & Restart Home Assitant.
 
@@ -37,3 +39,5 @@ volume_level: volume set when the radio goes OFF
 
 4. Open the “gh_webradiocard lovelace” file, select the lines of code and copy them (Ctrl + C).
 5. Create a manual card & Paste the previously selected lines (Ctrl + V) and Save by clicking on "Save"
+
+SIT
