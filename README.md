@@ -1,9 +1,10 @@
 <h1 style="text-align: center;">Google Home WebRadio su Home Assistant V 1.0</h1>
 <center><img class="aligncenter wp-image-1369 size-medium" src="https://github.com/SalvatoreITA/radio-google/blob/main/Radio%2001.PNG" alt="" width="239" height="365" /></center>
+<h1 style="text-align: center;">Installazione/h3>
 2.Installazione "<strong>Google Home WebRadio</strong>"</h3>
 - Copiare il file "<strong>gh_webradio</strong>" nella cartella "<strong>package</strong>"
 
-<img class="aligncenter size-full wp-image-1361" src="https://domhouse.it/wp-content/uploads/2020/11/002.png" alt="" width="594" height="487" />
+<img class="aligncenter size-full wp-image-1361" src="https://domhouse.it/wp-content/uploads/2020/11/002.png" alt="" width="239" height="365" />
 
 - Aprire il package "<strong>gh_webradio</strong>" e modificare i seguenti parametri:
 <ul>
@@ -14,7 +15,7 @@
 </ul>
 - Salvare le modifiche
 
-<img class="aligncenter size-full wp-image-1367" src="https://domhouse.it/wp-content/uploads/2020/11/000000000000000005.png" alt="" width="1423" height="858" />
+<img class="aligncenter size-full wp-image-1367" src="https://domhouse.it/wp-content/uploads/2020/11/000000000000000005.png" alt="" width="239" height="365" />
 
 – Recarsi su “<strong>Impostazioni</strong>” e successivamente su  “<strong>Controlli del Server</strong>”
 
