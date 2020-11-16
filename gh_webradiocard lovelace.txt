@@ -1,0 +1,33 @@
+cards:
+  - type: picture-entity
+    entity: camera.logo_stazione
+    camera_image: camera.logo_stazione
+    show_name: false
+    show_state: false
+    aspect_ratio: '3'
+  - entities:
+      - entity: input_select.stazioni_radio
+      - entity: input_select.google_speaker
+      - entity: input_boolean.web_radio
+        name: Radio
+        icon: 'mdi:power'
+        state_color: true
+      - entity: input_boolean.avvia_stazioneradio
+        icon: 'mdi:radio'
+        name: Avvia Stazione Radio
+        state_color: true
+      - entity: media_player.studio
+        icon: 'mdi:volume-high'
+      - entity: media_player.cucina
+        icon: 'mdi:volume-high'
+      - entity: media_player.camera
+        icon: 'mdi:volume-high'
+      - entity: media_player.salotto
+        icon: 'mdi:volume-high'
+      - entity: media_player.cucina_salotto
+        icon: 'mdi:volume-high'
+      - entity: media_player.google_home_tutti
+        icon: 'mdi:volume-high'
+    type: entities
+    show_header_toggle: false
+type: vertical-stack
