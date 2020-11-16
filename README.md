@@ -13,7 +13,7 @@ Telegram Page: https://t.me/domhouseit
 
 Telegram Group: https://t.me/sosdomotica
 
-<h3 style="text-align: center;">Install Google Home WebRadio V 1.0 Italiano </h3>
+<h3 style="text-align: center;">Install Google Home WebRadio V 1.1 Italiano </h3>
 
 1. Copiare il file "gh_webradio" nella cartella "package"
 2. Aprire il package "gh_webradio" e modificare i seguenti parametri:
