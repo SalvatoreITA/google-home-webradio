@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Google Home WebRadio Home Assistant V 1.0</h1>
+<h1 style="text-align: center;">Google Home WebRadio Home Assistant V 1.1</h1>
 <center><img class="aligncenter wp-image-1369 size-medium" src="https://github.com/SalvatoreITA/radio-google/blob/main/Radio%2001.PNG" alt="" width="239" height="365" /></center>
 
 <h3 style="text-align: center;"> ITALIAN Support </h3>
@@ -27,7 +27,7 @@ Telegram Group: https://t.me/sosdomotica
 
 3. Salva le modifiche e riavvia Home Assitant.
 
-<h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.0</h3>
+<h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.1</h3>
 
 4. Aprire il file  “gh_webradiocard lovelace”, selezionare le righe di codice e copiarle (Ctrl+C).
 5. Creare una manual Card, Incollare le righe precedentemente selezionate (Ctrl+V)
@@ -37,7 +37,7 @@ Telegram Group: https://t.me/sosdomotica
 
 
 
-<h3 style="text-align: center;">Install Google Home WebRadio V 1.0 English </h3>
+<h3 style="text-align: center;">Install Google Home WebRadio V 1.1 English </h3>
 
 1. Copy the "gh_webradio" file into the "package" folder
 2. Open the "gh_webradio" package and modify the following parameters:
@@ -51,7 +51,7 @@ Telegram Group: https://t.me/sosdomotica
 
 3. Save Modify & Restart Home Assitant.
 
-<h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.0</h3>
+<h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.1</h3>
 
 4. Open the “gh_webradiocard lovelace” file, select the lines of code and copy them (Ctrl + C).
 5. Create a manual card & Paste the previously selected lines (Ctrl + V)
