@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Google Home WebRadio Home Assistant V 1.1</h1>
-<center><img class="aligncenter wp-image-1369 size-medium" src="https://github.com/SalvatoreITA/radio-google/blob/main/Google%20WebRadio%201.2.png" alt="" width="239" height="365" /></center>
+<h1 style="text-align: center;">Google Home WebRadio Home Assistant V 1.2</h1>
+<img class="aligncenter size-full wp-image-1429" src="https://domhouse.it/wp-content/uploads/2020/11/001.png" alt="" width="589" height="492" />
 
 <h3 style="text-align: center;"> ITALIAN Support </h3>
 
