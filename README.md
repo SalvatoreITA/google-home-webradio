@@ -13,21 +13,20 @@ Telegram Page: https://t.me/domhouseit
 
 Telegram Group: https://t.me/sosdomotica
 
-<h3 style="text-align: center;">Install Google Home WebRadio V 1.1 Italiano </h3>
+<h3 style="text-align: center;">Install Google Home WebRadio V 1.2 Italiano </h3>
 
 1. Copiare il file "gh_webradio" nella cartella "package"
 2. Aprire il package "gh_webradio" e modificare i seguenti parametri:
 
 <ul>
- 	<li>Inserire i media player esempio media_player.salotto dovrà essere inserito solo salotto</li>
+ 	<li>Inserire i media player: media_player.salotto dovrà essere inserito solo salotto</li>
  	<li><strong>Initial:</strong> Inserire il media player di default</li>
- 	<li><strong>volume_level: </strong>volume impostato quando la radio va in <strong>ON</strong></li>
- 	<li><strong>volume_level: </strong>volume impostato quando la radio va in <strong>OFF</strong></li>
+  <li><strong>Initial:</strong> Inserire nella lista sottostante i media player</li>
 </ul>
 
 3. Salva le modifiche e riavvia Home Assitant.
 
-<h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.1</h3>
+<h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.2</h3>
 
 4. Aprire il file  “gh_webradiocard lovelace”, selezionare le righe di codice e copiarle (Ctrl+C).
 5. Creare una manual Card, Incollare le righe precedentemente selezionate (Ctrl+V)
@@ -37,15 +36,14 @@ Telegram Group: https://t.me/sosdomotica
 
 
 
-<h3 style="text-align: center;">Install Google Home WebRadio V 1.1 English </h3>
+<h3 style="text-align: center;">Install Google Home WebRadio V 1.2 English </h3>
 
 1. Copy the "gh_webradio" file into the "package" folder
 2. Open the "gh_webradio" package and modify the following parameters:
 
 <ul>
-<li>Insert media players eg media_player. Living room only living room should be entered</li>
+<li>Insert media players: media_player.sliving room only living room should be enterer</li>
 <li>Initial: Enter the default media player</li>
-<li>volume_level: volume set when the radio turns ON</li>
 <li>volume_level: volume set when the radio goes OFF</li>
 </ul>
 
