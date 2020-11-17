@@ -24,6 +24,8 @@ Telegram Group: https://t.me/sosdomotica
   <li><strong>Initial:</strong> Inserire nella lista sottostante i media player</li>
 </ul>
 
+<img class="aligncenter size-full wp-image-1425" src="https://domhouse.it/wp-content/uploads/2020/11/001200.png" alt="" width="956" height="176" />
+
 3. Salva le modifiche e riavvia Home Assitant.
 
 <h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.2</h3>
