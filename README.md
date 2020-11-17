@@ -41,26 +41,3 @@ Telegram Group: https://t.me/sosdomotica
 5. Creare una manual Card, Incollare le righe precedentemente selezionate (Ctrl+V)
 6. Modificare la Card in base al nome delle vostre entità
 7. Salvare cliccando su “Salva”
-
-
-
-
-<h3 style="text-align: center;">Install Google Home WebRadio V 1.2 English </h3>
-
-1. Copy the "gh_webradio" file into the "package" folder
-2. Open the "gh_webradio" package and modify the following parameters:
-
-<ul>
-<li>Insert media players: media_player.sliving room only living room should be enterer</li>
-<li>Initial: Enter the default media player</li>
-<li>volume_level: volume set when the radio goes OFF</li>
-</ul>
-
-3. Save Modify & Restart Home Assitant.
-
-<h3 style="text-align: center;">Lovelace Card Google Home WebRadio V 1.1</h3>
-
-4. Open the “gh_webradiocard lovelace” file, select the lines of code and copy them (Ctrl + C).
-5. Create a manual card & Paste the previously selected lines (Ctrl + V)
-6. Edit the Card according to the name of your entities
-7. Save by clicking on "Save"
