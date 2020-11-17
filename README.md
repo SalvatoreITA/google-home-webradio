@@ -21,10 +21,17 @@ Telegram Group: https://t.me/sosdomotica
 <ul>
  	<li>Inserire i media player: media_player.salotto dovrà essere inserito solo salotto</li>
  	<li><strong>Initial:</strong> Inserire il media player di default</li>
-  <li><strong>Initial:</strong> Inserire nella lista sottostante i media player</li>
 </ul>
 
 <img class="aligncenter size-full wp-image-1425" src="https://domhouse.it/wp-content/uploads/2020/11/001200.png" alt="" width="956" height="176" />
+
+<ul>
+ 	<li>Inserire nella lista sottostante i media player</li>
+ 	<li>Volume level:  Riporta il volume di google al massimo quando la radio va in off</li>
+</ul>
+
+<img class="aligncenter size-full wp-image-1427" src="https://domhouse.it/wp-content/uploads/2020/11/02000544.png" alt="" width="1019" height="642" />
+
 
 3. Salva le modifiche e riavvia Home Assitant.
 
