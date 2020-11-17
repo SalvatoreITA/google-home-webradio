@@ -39,5 +39,4 @@ Telegram Group: https://t.me/sosdomotica
 
 4. Aprire il file  “gh_webradiocard lovelace”, selezionare le righe di codice e copiarle (Ctrl+C).
 5. Creare una manual Card, Incollare le righe precedentemente selezionate (Ctrl+V)
-6. Modificare la Card in base al nome delle vostre entità
-7. Salvare cliccando su “Salva”
+6. Salvare cliccando su “Salva”
