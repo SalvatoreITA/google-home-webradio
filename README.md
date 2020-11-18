@@ -13,6 +13,8 @@ Telegram Page: https://t.me/domhouseit
 
 Telegram Group: https://t.me/sosdomotica
 
+Download: <a href="https://domhouse.it/download/1376/" target="_blank" rel="noopener">Google Home WebRadio V 1.2</a>
+
 <h3 style="text-align: center;">Install Google Home WebRadio V 1.2 Italiano </h3>
 
 1. Copiare il file "gh_webradio" nella cartella "package"
