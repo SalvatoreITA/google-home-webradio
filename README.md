@@ -13,6 +13,8 @@ Telegram Page: https://t.me/domhouseit
 
 Telegram Group: https://t.me/sosdomotica
 
+Link Progetto: https://domhouse.it/google-home-webradio-su-home-assistant/
+
 Download: <a href="https://domhouse.it/download/1376/" target="_blank" rel="noopener">Google Home WebRadio V 1.2</a>
 
 <h3 style="text-align: center;">Install Google Home WebRadio V 1.2 Italiano </h3>
