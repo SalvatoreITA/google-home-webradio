@@ -25,7 +25,7 @@ Download: <a href="https://domhouse.it/download/1376/" target="_blank" rel="noop
  	<li><strong>Initial:</strong> Inserire il media player di default</li>
 </ul>
 
-<img class="aligncenter size-full wp-image-1425" src="https://domhouse.it/wp-content/uploads/2020/11/001200.png" alt="" width="956" height="176" />
+<img class="aligncenter size-full wp-image-1425" src="https://domhouse.it/wp-content/uploads/2020/11/02000544.png" alt="" width="956" height="176" />
 
 <ul>
  	<li>Inserire nella lista sottostante i media player</li>
