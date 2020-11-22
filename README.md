@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Google Home WebRadio Home Assistant V 1.3</h1>
+<h1 style="text-align: center;">Google Home WebRadio Home Assistant</h1>
 <img class="aligncenter size-full wp-image-1429" src="https://domhouse.it/wp-content/uploads/2020/11/555555.png" alt="" width="589" height="492" />
 
 <h3 style="text-align: center;"> ITALIAN Support </h3>
@@ -15,4 +15,4 @@ Telegram Group: https://t.me/sosdomotica
 
 Link Progetto: https://domhouse.it/google-home-webradio-su-home-assistant/
 
-Download: <a href="https://domhouse.it/download/1376/" target="_blank" rel="noopener">Google Home WebRadio V 1.3</a>
+Download: <a href="https://domhouse.it/download/1376/" target="_blank" rel="noopener">Google Home WebRadio</a>
